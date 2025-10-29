@@ -12,10 +12,10 @@ Success message on valid submission (without actual form sending)
 
 🧰 Tools Used
 
-HTML5 – Structure of the form
-CSS3 – Styling and layout
-JavaScript (Vanilla JS) – Form validation logic
-VS Code – Code editor
+HTML5 – Structure of the form,
+CSS3 – Styling and layout,
+JavaScript (Vanilla JS) – Form validation logic,
+VS Code – Code editor,
 Chrome Browser – Testing and debugging
 
 🧩 Features
